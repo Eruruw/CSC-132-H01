@@ -1,0 +1,208 @@
+Beginning
+
+Hey, I'll be your partner for this assignment!
+I hope we get along.
+
+- I hope so too.
+	a += 1
+	With optimism like that, I'm sure we will!
+	So, any ideas for the assignment?
+
+	- Maybe a robot of some sort?
+		a +- 0
+		Not exactly my area of expertise, but maybe.
+		I'd really have to place my trust in you, though.
+
+		- No worries, I have confidence in us.
+			a += 1
+			That's good to hear!
+			Maybe this project will be easier than I thought.
+
+			- I sure hope so.
+				a +- 0
+				Don't think about it too much!
+				We'll come across any bridges as we get to them.
+				Anyway, should we meet again later?
+
+				- Yeah, that sounds like a good idea.
+					a += 1
+					Cool, looking forward to working with you!
+					See you later, yeah?
+
+				- I can't, I'm busy.
+					a +- 0
+					Oh, that's fine. Just let me know when you're free.
+					Talk to you later!
+
+			- Isn't that a little too optimisic?
+				a -= 1
+				This early on? Maybe, but it's a good mindset, right?
+				We should remain optimisic if we want to get anywhere.
+
+				- Maybe you're right.
+					a += 0
+					I know I'm right!
+					Anyway, it's getting late, so I'll be off.
+					See you later!
+
+				- I don't know about that...
+					a +- 0
+					Oh, come on, lighten up a little!
+					Well, I've gotta go.
+					We'll talk about this again later.
+
+		- We'll see as we go along.
+			a +- 0
+			I suppose you have a point.
+			Can't know anything until we try, right?
+
+			- Not a bad outlook.
+				a += 1
+				I'm glad you agree!
+				So, should we meet again later?
+
+				- Yeah, that sounds like a good idea.
+					a += 1
+					Cool, looking forward to working with you!
+					See you later, yeah?
+
+				- I can't, I'm busy.
+					a +- 0
+					Oh, that's fine. Just let me know when you're free.
+					Talk to you later!
+
+			- Granted, it would be better if we knew before.
+				a +- 0
+				Haha, well, I won't say you're wrong there.
+				But where's the fun without a little discovery?
+				Don't you think this will be fun?
+
+				- I don't particularly enjoy projects, so not really.
+					a -= 1
+					That's not the greatest mindset for a group project.
+					It'll only make it harder to work, you know?
+					Either way, we'll work it out later. Take care.
+
+				- I think it will be, if we work together!
+					a += 1
+					Yeah, I'm looking forward to it!
+					That being said, I'll contact you later about the details.
+					Talk to you then!
+
+				- If all goes well, it could be.
+					a +- 0
+					This isn't about success or faiure, I think you missed the point.
+					It's about our progression as students and future workers.
+					Either way, I'm looking forward to watching your outlook change later!
+					With that, I'll be on my way. Peace!
+``````
+			- Sure, if you live recklessly.
+				a -= 1
+
+	- How about a program to demonstrate some particular skill?
+		a +- 0
+		That sounds really fun! I wonder what we can manage.
+		Do you think you'll be able to handle the work involved?
+
+	- I'm not quite sure yet.
+		a +- 0
+		No big deal! It's the first day, anyway.
+		We might be able to create something naturally.
+		As long as we stay on task, it'll turn out fine.
+
+	
+- As long as we get the work done.
+	a +- 0
+	I'm sure everything will come as we go.
+	So, any ideas for the assignment?
+
+- I wonder if we will?
+	a -= 1
+	There's no need to doubt me!
+	Maybe you could try being a little more optimisitic?
+
+	- And maybe you could try being a little less annoying?
+		a -= 1
+		This seems like it'll be a long project...
+		So, any ideas for the assignment?
+
+		- Maybe a robot of some sort?
+			a +- 0
+			That doesn't really fit in my area of expertise.
+			And no offense, but I don't know if I can trust you.
+
+		- How about a program to demonstrate a particular skill?
+			a +- 0
+			That's not a bad idea, and we can work separately too.
+			Can I really trust you to get your work done?
+
+		- I'm not quite sure yet.
+			a +- 0
+			Nothing wrong with that.
+			But with the way we're going, we should start something soon.
+			I just have a feeling this is going to be a long journey.
+
+	- Sorry, I didn't mean anything by that.
+		+- 0
+		Still a little cold, don't you think?
+		We can't work well together if we don't understand each other.
+		So, any ideas for the assignment?
+
+		- Maybe a robot of some sort?
+			a +- 0
+			I'm not experienced with robots, but it may work out.
+			At least, if you're willing to be patient with me.
+
+		- How about a program to demonstrate a particular skill?
+			a +- 0
+			No complains here, we can get that done.
+			We both need to contribute though, you know?
+
+		- I'm not quite sure yet.
+			a +- 0
+			Just keep on brainstorming ideas.
+			When we come up with something, we need to start working.
+
+	- Maybe you're right. We'll do fine.
+		a += 1
+		That's the spirit! Let's do this!
+		So, any ideas for the assignment?
+
+		- Maybe a robot of some sort?
+			a +- 0
+			I probably won't be of much help there, honestly.
+			But if you think you could find something we can both do, I'm game.
+
+		- How about a program to demonstrate a particular skill?
+			a +- 0
+			Maybe not the most inspired, but probably our best bet.
+			I'll be ready to work on it when you are.
+
+		- I'm not quite sure yet.
+			a +-
+			Is that so? No pressure, of course.
+			I'll continue to think of ideas, too.
+
+-----------------------------------------------------------------------------------------------------------------------------
+Branching Path - Positive (a > 1)
+
+-----------------------------------------------------------------------------------------------------------------------------
+Branching Path - Netural (-2 < a < 2)
+
+-----------------------------------------------------------------------------------------------------------------------------
+Branching Path - Negative (a < -1)
+
+-----------------------------------------------------------------------------------------------------------------------------
+Best Ending (b > 3) (Possible from Positive path)
+
+-----------------------------------------------------------------------------------------------------------------------------
+Good Ending (b > 1) (Possible from Positive and Netural paths)
+
+-----------------------------------------------------------------------------------------------------------------------------
+Netural Ending (-2 < b < 2) (Possible from all paths)
+
+-----------------------------------------------------------------------------------------------------------------------------
+Bad Ending (b < -1) (Possible from Netural and Negative paths)
+
+-----------------------------------------------------------------------------------------------------------------------------
+Worst Ending (b < -3) (Possible from Negative path)
